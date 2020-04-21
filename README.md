@@ -1,0 +1,2 @@
+# Projeto-Security
+ Security é um aplicativo desenvolvido para Web (Google Chrome), com uma tela de fácil entendimento, que irá permitir que sites de lojas online, através de um cadastro com o nome, CPF, e-mail do usuário consigam acessar o respectivo destino. Destinado as empresas que desejam ter um ótimo controle para saber quem e quantos estão acessando seu site.  Projeto destinado a disciplina de Engenharia de Software II.
