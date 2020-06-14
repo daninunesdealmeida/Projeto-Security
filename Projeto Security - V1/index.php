@@ -38,7 +38,7 @@
 	?>
 	<hr>
 	<div>
-		<h5>Após enviar os dados, para continuar <a style="color: darkred;" id="semdecoration"href="https://www.upf.br/">CLIQUE AQUI.</a></h5>
+		<h5>Após enviar os dados ou se deseja continuar sem o cadastro, <a style="color: darkred;" id="semdecoration"href="https://www.upf.br/">CLIQUE AQUI.</a></h5>
 	</div>
 </body>
 <?php require_once 'template/rodape.php'; ?>
